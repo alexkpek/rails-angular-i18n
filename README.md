@@ -16,11 +16,11 @@ To use the 'unstable' branch, add the following directive to your JavaScript man
 
     //= require unstable/angular-locale_{{ your locale prefix }}
 
-Language prefixes you can found [here](https://code.angularjs.org/1.3.13/i18n).
+Language prefixes you can found [here](https://code.angularjs.org/1.3.14/i18n).
 Remember to use only language prefix like en, ru, eu, but not a dialect prefixes ru-ua or ru-ru.
 
 ## Versioning
 
-Locales for current version: 1.3.13
+Locales for current version: 1.3.14
 
-Locales for unstable version: 1.4.0-beta4
+Locales for unstable version: 1.4.0-beta5
