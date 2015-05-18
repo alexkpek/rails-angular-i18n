@@ -12,7 +12,7 @@ module RailsAngularI18n
 
     def own_version(version)
       # Currently unstable versions have even minor
-      version.minor.even?
+      version.minor.even? && !version.minor.zero?
     end
 
     def version_constant_name
