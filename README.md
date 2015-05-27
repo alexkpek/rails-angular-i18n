@@ -12,15 +12,9 @@ Add the following directive to your JavaScript manifest file (application.js):
 
     //= require angular-locale_{{ your locale prefix }}
 
-To use the 'unstable' branch, add the following directive to your JavaScript manifest file (application.js):
-
-    //= require unstable/angular-locale_{{ your locale prefix }}
-
-Language prefixes you can found [here](https://code.angularjs.org/1.3.14/i18n).
+Language prefixes you can found [here](https://code.angularjs.org/1.4.0/i18n).
 Remember to use only language prefix like en, ru, eu, but not a dialect prefixes ru-ua or ru-ru.
 
 ## Versioning
 
-Locales for current version: 1.3.15
-
-Locales for unstable version: 1.4.0-rc.2
+Locales for current version: 1.4.0

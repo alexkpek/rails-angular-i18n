@@ -25,7 +25,7 @@ module RailsAngularI18n
     end
 
     def current_gem_version
-      raise NotImplementedError
+      Versionomy.parse(RailsAngularI18n::VERSION).convert(:rubygems)
     end
 
     def available_versions
@@ -38,6 +38,10 @@ module RailsAngularI18n
 
     def version_constant_name
       "VERSION"
+    end
+
+    def own_version(version)
+      version.minor.even? && !version.minor.zero?
     end
 
     private
