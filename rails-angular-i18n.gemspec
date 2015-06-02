@@ -13,8 +13,6 @@ Gem::Specification.new do |s|
 	s.homepage  = 'https://github.com/alexkpek/rails-angular-i18n'
 	s.license   = 'MIT'
 
-  s.add_dependency "rails-angularjs", ">= 1", "< 1.4.0"
-
   s.add_development_dependency  'rake', '~> 0'
   s.add_development_dependency  'versionomy', '~> 0'
   s.add_development_dependency  'nokogiri', '~> 0'
