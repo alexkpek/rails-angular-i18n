@@ -12,7 +12,7 @@ Add the following directive to your JavaScript manifest file (application.js):
 
     //= require angular-locale_{{ your locale prefix }}
 
-Language prefixes you can found [here](https://code.angularjs.org/1.4.0/i18n).
+Language prefixes you can found [here](https://code.angularjs.org/1.5.0/i18n).
 Remember to use only language prefix like en, ru, eu, but not a dialect prefixes ru-ua or ru-ru.
 
 ## Versioning
