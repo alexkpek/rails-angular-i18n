@@ -41,7 +41,7 @@ module RailsAngularI18n
     end
 
     def own_version(version)
-      version.minor.even? && !version.minor.zero?
+      version.minor && !version.minor.zero?
     end
 
     private
