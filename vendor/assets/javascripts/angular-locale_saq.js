@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "Tob",
       "Tow"
     ],
+    "STANDALONEMONTH": [
+      "Lapa le obo",
+      "Lapa le waare",
+      "Lapa le okuni",
+      "Lapa le ong\u2019wan",
+      "Lapa le imet",
+      "Lapa le ile",
+      "Lapa le sapa",
+      "Lapa le isiet",
+      "Lapa le saal",
+      "Lapa le tomon",
+      "Lapa le tomon obo",
+      "Lapa le tomon waare"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

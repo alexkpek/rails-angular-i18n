@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "Imw",
       "Iwi"
     ],
+    "STANDALONEMONTH": [
+      "Mori ghwa imbiri",
+      "Mori ghwa kawi",
+      "Mori ghwa kadadu",
+      "Mori ghwa kana",
+      "Mori ghwa kasanu",
+      "Mori ghwa karandadu",
+      "Mori ghwa mfungade",
+      "Mori ghwa wunyanya",
+      "Mori ghwa ikenda",
+      "Mori ghwa ikumi",
+      "Mori ghwa ikumi na imweri",
+      "Mori ghwa ikumi na iwi"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

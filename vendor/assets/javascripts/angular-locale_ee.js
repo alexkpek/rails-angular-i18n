@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "ade",
       "dzm"
     ],
+    "STANDALONEMONTH": [
+      "dzove",
+      "dzodze",
+      "tedoxe",
+      "af\u0254f\u0129e",
+      "dama",
+      "masa",
+      "siaml\u0254m",
+      "deasiamime",
+      "any\u0254ny\u0254",
+      "kele",
+      "ade\u025bmekp\u0254xe",
+      "dzome"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

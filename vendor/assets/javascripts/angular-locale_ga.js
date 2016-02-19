@@ -62,6 +62,20 @@ $provide.value("$locale", {
       "Samh",
       "Noll"
     ],
+    "STANDALONEMONTH": [
+      "Ean\u00e1ir",
+      "Feabhra",
+      "M\u00e1rta",
+      "Aibre\u00e1n",
+      "Bealtaine",
+      "Meitheamh",
+      "I\u00fail",
+      "L\u00fanasa",
+      "Me\u00e1n F\u00f3mhair",
+      "Deireadh F\u00f3mhair",
+      "Samhain",
+      "Nollaig"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -97,7 +111,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

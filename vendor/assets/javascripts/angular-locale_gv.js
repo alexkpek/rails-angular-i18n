@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "M.Houney",
       "M.Nollick"
     ],
+    "STANDALONEMONTH": [
+      "Jerrey-geuree",
+      "Toshiaght-arree",
+      "Mayrnt",
+      "Averil",
+      "Boaldyn",
+      "Mean-souree",
+      "Jerrey-souree",
+      "Luanistyn",
+      "Mean-fouyir",
+      "Jerrey-fouyir",
+      "Mee Houney",
+      "Mee ny Nollick"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

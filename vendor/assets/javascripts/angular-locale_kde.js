@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "Nov",
       "Des"
     ],
+    "STANDALONEMONTH": [
+      "Mwedi Ntandi",
+      "Mwedi wa Pili",
+      "Mwedi wa Tatu",
+      "Mwedi wa Nchechi",
+      "Mwedi wa Nnyano",
+      "Mwedi wa Nnyano na Umo",
+      "Mwedi wa Nnyano na Mivili",
+      "Mwedi wa Nnyano na Mitatu",
+      "Mwedi wa Nnyano na Nchechi",
+      "Mwedi wa Nnyano na Nnyano",
+      "Mwedi wa Nnyano na Nnyano na U",
+      "Mwedi wa Nnyano na Nnyano na M"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

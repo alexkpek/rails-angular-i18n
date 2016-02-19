@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "KIT",
       "LIT"
     ],
+    "STANDALONEMONTH": [
+      "Bisha Koobaad",
+      "Bisha Labaad",
+      "Bisha Saddexaad",
+      "Bisha Afraad",
+      "Bisha Shanaad",
+      "Bisha Lixaad",
+      "Bisha Todobaad",
+      "Bisha Sideedaad",
+      "Bisha Sagaalaad",
+      "Bisha Tobnaad",
+      "Bisha Kow iyo Tobnaad",
+      "Bisha Laba iyo Tobnaad"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

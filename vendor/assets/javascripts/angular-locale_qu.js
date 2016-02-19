@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "Aya",
       "Kap"
     ],
+    "STANDALONEMONTH": [
+      "Qulla puquy",
+      "Hatun puquy",
+      "Pauqar waray",
+      "Ayriwa",
+      "Aymuray",
+      "Inti raymi",
+      "Anta Sitwa",
+      "Qhapaq Sitwa",
+      "Uma raymi",
+      "Kantaray",
+      "Ayamarq\u02bca",
+      "Kapaq Raymi"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4\u00a0-",
+        "negPre": "-\u00a4\u00a0",
         "negSuf": "",
         "posPre": "\u00a4\u00a0",
         "posSuf": ""

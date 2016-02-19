@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "KNK",
       "KNB"
     ],
+    "STANDALONEMONTH": [
+      "Okwokubanza",
+      "Okwakabiri",
+      "Okwakashatu",
+      "Okwakana",
+      "Okwakataana",
+      "Okwamukaaga",
+      "Okwamushanju",
+      "Okwamunaana",
+      "Okwamwenda",
+      "Okwaikumi",
+      "Okwaikumi na kumwe",
+      "Okwaikumi na ibiri"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""

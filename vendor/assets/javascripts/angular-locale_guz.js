@@ -80,6 +80,20 @@ $provide.value("$locale", {
       "Nob",
       "Dis"
     ],
+    "STANDALONEMONTH": [
+      "Chanuari",
+      "Feburari",
+      "Machi",
+      "Apiriri",
+      "Mei",
+      "Juni",
+      "Chulai",
+      "Agosti",
+      "Septemba",
+      "Okitoba",
+      "Nobemba",
+      "Disemba"
+    ],
     "WEEKENDRANGE": [
       5,
       6
@@ -115,7 +129,7 @@ $provide.value("$locale", {
         "maxFrac": 2,
         "minFrac": 2,
         "minInt": 1,
-        "negPre": "\u00a4-",
+        "negPre": "-\u00a4",
         "negSuf": "",
         "posPre": "\u00a4",
         "posSuf": ""
