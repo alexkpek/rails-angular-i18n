@@ -1,4 +1,4 @@
-require "rails-angularjs/version"
+require "rails-angular-i18n/version"
 
 module RailsAngularI18n
   if defined? ::Rails::Engine

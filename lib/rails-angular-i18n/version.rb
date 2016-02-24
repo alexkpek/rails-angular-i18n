@@ -1,3 +1,3 @@
 module RailsAngularI18n
-  VERSION = "1.4.8"
+  VERSION = "1.2.20"
 end

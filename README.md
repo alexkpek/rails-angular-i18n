@@ -17,4 +17,4 @@ Remember to use only language prefix like en, ru, eu, but not a dialect prefixes
 
 ## Versioning
 
-Locales for current version: 1.4.0
+Locales for current version: 1.2.20
